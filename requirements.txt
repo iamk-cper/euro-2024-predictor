@@ -1,0 +1,7 @@
+pandas
+warnings
+numpy
+matplotlib
+scipy
+sklearn
+seaborn
