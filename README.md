@@ -109,3 +109,10 @@ python model_predict.py
 ### International football results from 1872 to 2024
 
 https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/data?select=results.csv
+
+
+## Technologies
+
+1. Python
+2. Jupyter notebook
+3. Frameworks: pandas, numpy, matplotlib, scipy, sklearn, seaborn
